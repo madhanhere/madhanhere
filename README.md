@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm Madhan Kumar! Working as a developer for 4 years.
 
 - 🔭 I’m currently working on Angular projects.
 - 🌱 I’m currently learning React, Deno, and Algebra 
